@@ -1,0 +1,24 @@
+{
+  "name": "typescript-setup",
+  "version": "1.0.0",
+  "description": "for typescript setup ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srinu1910/typescrip-setup.git"
+  },
+  "author": "srinu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srinu1910/typescrip-setup/issues"
+  },
+  "homepage": "https://github.com/srinu1910/typescrip-setup#readme",
+  "dependencies": {
+    "es6-module-loader": "^0.17.11",
+    "systemjs": "^0.21.0",
+    "traceur": "0.0.111"
+  }
+}
